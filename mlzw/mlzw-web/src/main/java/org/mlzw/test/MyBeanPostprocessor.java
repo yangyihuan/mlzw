@@ -9,7 +9,7 @@ public class MyBeanPostprocessor{
 	public static void main(String[] args) {
 		
 		ApplicationContext applicationContext = new ClassPathXmlApplicationContext("");
-		
+		System.out.println("hello git");
 	}
 	
 }
