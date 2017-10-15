@@ -7,4 +7,8 @@ public class GItTest {
 		System.out.println("test git");
 		
 	}
+	
+	public static void getDate () {
+		Sysyem.out.println("asdasd");
+	}
 }
