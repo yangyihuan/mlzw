@@ -9,6 +9,6 @@ public class GItTest {
 	}
 	
 	public static void getDate () {
-		Sysyem.out.println("asdasd");
+		System.out.println("asdasd");
 	}
 }
